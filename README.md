@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratibha</h1>
 <h3 align="center">A passionate web developer and AI Learner from India</h3>
 
-<img align="right" alt="coding" width="400" scr = "[https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif](https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif](https://th.bing.com/th/id/R.1602b26c05ee78120695d592a68b8912?rik=9O1u%2bLpA2RRIQw&riu=http%3a%2f%2fwww.textures4photoshop.com%2ftex%2fthumbs%2fmatrix-code-animation-gif-free-animated-background-716.gif&ehk=WUVCioIV7kR5uuDGvMDZqWHy7xCswZFIHgwKQewHnS4%3d&risl=&pid=ImgRaw&r=0)">
+<img align="right" alt="coding" width="400" scr = "https://cdn.wallpapersafari.com/42/88/9ynmFP.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha-git123&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha-git123" /> </p>
 
