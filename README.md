@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratibha</h1>
 <h3 align="center">A passionate web developer and AI Learner from India</h3>
 
-<img align="centre" alt="coding" width="400" scr="https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif">
+<img align="centre" alt="coding" width="400" scr="https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif](https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha-git123&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha-git123" /> </p>
 
